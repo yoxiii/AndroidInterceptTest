@@ -1,6 +1,8 @@
-package com.example.intercepttest;
+package com.example1.intercepttest;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.intercepttest.R;
 
 import android.os.Bundle;
 

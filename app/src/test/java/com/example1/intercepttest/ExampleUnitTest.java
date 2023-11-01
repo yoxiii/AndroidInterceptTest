@@ -1,4 +1,4 @@
-package com.yoxi.intercepttest;
+package com.example1.intercepttest;
 
 import org.junit.Test;
 

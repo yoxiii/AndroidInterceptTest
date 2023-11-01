@@ -22,13 +22,13 @@
         android:theme="@style/Theme.InterceptTest"
         tools:targetApi="31">
         <activity
-            android:name="com.yoxi.intercepttest.MainActivity2"
+            android:name="com.example1.intercepttest.MainActivity2"
             android:exported="false" />
 
 
 
         <receiver
-            android:name="com.yoxi.intercepttest.MyReceiver"
+            android:name="com.example1.intercepttest.MyReceiver"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
@@ -37,7 +37,7 @@
         </receiver>
 
         <activity
-            android:name="com.yoxi.intercepttest.MainActivity"
+            android:name="com.example1.intercepttest.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
